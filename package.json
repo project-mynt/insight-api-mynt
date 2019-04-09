@@ -1,12 +1,12 @@
 {
   "name": "insight-api-mynt",
   "description": "A Myntcoin blockchain REST and web socket API service for Myntcore Node.",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "repository": "git://github.com/silence48/insight-api-mynt.git",
   "contributors": [
     {
       "name": "Silence48",
-      "email": ""
+      "email": "silence@rpgcoin.gg"
     }
   ],
   "bugs": {
@@ -40,8 +40,8 @@
     "lru-cache": "^4.0.1",
     "mongoose": "5.1.7",
     "morgan": "^1.7.0",
-    "myntcore-lib": "silence48/myntcore-lib",
-    "myntcore-message": "silence48/myntcore-message",
+    "myntcore-lib": "^1.0.0",
+    "myntcore-message": "^1.0.0",
     "request": "^2.83.0"
   },
   "peerDependencies": {},
